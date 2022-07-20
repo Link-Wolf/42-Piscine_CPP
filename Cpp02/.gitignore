@@ -1,0 +1,6 @@
+*.a
+*.o
+*.out
+*.log
+.DS_Store
+test.c
