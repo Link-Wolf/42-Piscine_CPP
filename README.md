@@ -2,7 +2,7 @@
 
 <div align="center">
 	<a href="https://github.com/Link-Wolf/42-Piscine_CPP" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Link-Wolf&message=42-Piscine_CPP&color=blue&logo=github&style=for-the-badge" alt="Link-Wolf - 42-Piscine_CPP"></a>
-	<a href="https://"><img src="https://img.shields.io/badge/42_grade-100_%2F_100-brightgreen?style=for-the-badge" alt="42 grade - 125 / 100"></a>
+	<a href="https://"><img src="https://img.shields.io/badge/42_grade-100_%2F_100-2ea44f?style=for-the-badge" alt="42 grade - 125 / 100"></a>
 	<a href="https://"><img src="https://img.shields.io/badge/Year-2022-ffad9b?style=for-the-badge" alt="Year - 2022"></a>
 	<a href="https://github.com/Link-Wolf/42-Piscine_CPP/stargazers"><img src="https://img.shields.io/github/stars/Link-Wolf/42-Piscine_CPP?style=for-the-badge&color=yellow" alt="stars - 42-Piscine_CPP"></a>
 	<a href="https://github.com/Link-Wolf/42-Piscine_CPP/network/members"><img src="https://img.shields.io/github/forks/Link-Wolf/42-Piscine_CPP?style=for-the-badge&color=lightgray" alt="forks - 42-Piscine_CPP"></a>
