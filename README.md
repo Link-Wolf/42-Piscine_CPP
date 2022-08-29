@@ -65,7 +65,7 @@
 
 There are 9 different small C++ projects which aim to teach us all basic C++ concepts step by step</br>
 For this projects, the code should comply with C++98 standard (compile with `-std=c++98` flag)</br>
-So C++11 and `Boost` libraries are forbidden, .as well as `*printf()`, `*alloc()` and `free()` functions to use as much as possible the C++-ish versions of the C functions
+So C++11 and `Boost` libraries are forbidden, as well as `*printf()`, `*alloc()` and `free()` functions to use as much as possible the C++-ish versions of the C functions
 
 Here are all the C++ concepts discussed :
 - Namespaces, classes, member functions, `stdio` streams, static, const
