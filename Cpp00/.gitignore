@@ -1,0 +1,7 @@
+*.a
+*.o
+*.log
+.DS_Store
+megaphone
+phonebook
+res
