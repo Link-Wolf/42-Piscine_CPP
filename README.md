@@ -46,19 +46,16 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 <div align="center">
   <a>
-    <img src="https://camo.githubusercontent.com/4692cb7a1a0427bedb2ef79de0453c484c54f1d866d2ff94d8382b4aaf8f0f78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f4070726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f63707040302e302e322f6370705f323536783235362e706e67" alt="FdF header">
+    <img src="assets/cpp.png" alt="cpp logo">
   </a>
 </div>
 </br>
@@ -68,17 +65,19 @@ For this projects, the code should comply with C++98 standard (compile with `-st
 So C++11 and `Boost` libraries are forbidden, as well as `*printf()`, `*alloc()` and `free()` functions to use as much as possible the C++-ish versions of the C functions
 
 Here are all the C++ concepts discussed :
-- Namespaces, classes, member functions, `stdio` streams, static, const
-- Memory allocation, pointers to members, references, `switch` statement
-- Polymorphism, operator overloading and canonical form
-- Inheritance
-- Polymorphism by sub-typing, abstract classes, interfaces
-- Exceptions
-- C++ casts
-- Templates
-- Containers templates, iterators, algorithms
+
+-   Namespaces, classes, member functions, `stdio` streams, static, const
+-   Memory allocation, pointers to members, references, `switch` statement
+-   Polymorphism, operator overloading and canonical form
+-   Inheritance
+-   Polymorphism by sub-typing, abstract classes, interfaces
+-   Exceptions
+-   C++ casts
+-   Templates
+-   Containers templates, iterators, algorithms
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 Because they're simple C++ programs, there isn't much to say here
@@ -90,33 +89,29 @@ Having a C++ compiler like c++
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/Link-Wolf/42-Piscine_CPP.git
-   ```
+    ```sh
+    git clone https://github.com/Link-Wolf/42-Piscine_CPP.git
+    ```
 2. Compile one of the exercice, in one of the sub-projects
-   ```sh
-   cd 42-Piscine_CPP/Cpp0X/exXX; make
-   ```
+    ```sh
+    cd 42-Piscine_CPP/Cpp0X/exXX; make
+    ```
 3. Execute the program
-   ```sh
-   ./exXX
-   ```
+    ```sh
+    ./exXX
+    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Test differents exercices in differents sub-projects and have fun..i guess ?
 
 #### Example
+
 ```sh
-   your_terminal$  pwd
-
-   /Users/XXXXX/XX...XX/42-Piscine_CPP/Cpp05/ex01
-
    your_terminal$  ./ex01
 ```
 
@@ -139,40 +134,12 @@ Test differents exercices in differents sub-projects and have fun..i guess ?
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
-- [ ] Make a better and more detailed readme (for each sub-project ?)
-- [x] Add back to top links
+-   [ ] Make a better and more detailed readme (for each sub-project ?)
 
 See the [open issues](https://github.com/Link-Wolf/42-Piscine_CPP/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again! *(and sorry for this c++ project grouping)*
-
-1. Have nothing else to do
-2. Fork the Project
-3. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-4. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-5. Push to the Branch (`git push origin feature/AmazingFeature`)
-6. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
-## Contact
-
-Mail : xxxxxxx@student.42mulhouse.fr
-
-Project Link: [https://github.com/Link-Wolf/42-Piscine_CPP](https://github.com/Link-Wolf/42-Piscine_CPP)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
